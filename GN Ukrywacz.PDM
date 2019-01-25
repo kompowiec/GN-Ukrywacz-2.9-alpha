@@ -1,0 +1,92 @@
+[Root]
+Most Recent Package=GN Ukrywacz
+
+
+[Package|GN Ukrywacz|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Grzegorz\Moje programy\GN Ukrywacz\gnukryw
+
+[Package|GN Ukrywacz|Configure DAO ISAMs]
+Applicable=No
+
+[Package|GN Ukrywacz|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|GN Ukrywacz|Files Found]
+
+[Package|GN Ukrywacz|Files Released]
+
+[Package|GN Ukrywacz|Missing Dependency Information]
+
+[Package|GN Ukrywacz|Out-of-Date Dependency Information]
+
+[Package|GN Ukrywacz|Files Added]
+c:\grzegorz\moje programy\gn ukrywacz\readme.txt=
+
+[Package|GN Ukrywacz|Files Removed]
+
+[Package|GN Ukrywacz|Files In Project]
+C:\Grzegorz\Moje programy\GN Ukrywacz\GN Ukrywacz.exe=Yes
+C:\Windows\SYSTEM\MSVBVM60.DLL=Yes
+C:\Windows\SYSTEM\OLEAUT32.DLL=Yes
+C:\Windows\SYSTEM\olepro32.dll=Yes
+C:\Windows\SYSTEM\asycfilt.dll=Yes
+C:\Windows\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Grzegorz\Moje programy\GN Ukrywacz\Readme.txt=Yes
+
+[Package|GN Ukrywacz|Configure Registry Files]
+Applicable=No
+
+[Package|GN Ukrywacz|Configure Remote Servers]
+Applicable=No
+
+[Package|GN Ukrywacz|Install Locations]
+C:\Grzegorz\Moje programy\GN Ukrywacz\GN Ukrywacz.exe=$(AppPath)
+C:\Windows\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Windows\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Windows\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Grzegorz\Moje programy\GN Ukrywacz\Readme.txt=$(AppPath)
+
+[Package|GN Ukrywacz|Configure Shared Files]
+Applicable=Yes
+C:\Grzegorz\Moje programy\GN Ukrywacz\GN Ukrywacz.exe=No
+C:\Grzegorz\Moje programy\GN Ukrywacz\Readme.txt=No
+
+[Package|GN Ukrywacz|Distribution]
+Type=single
+Size=
+Title=GN Ukrywacz
+
+[Package|GN Ukrywacz|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|GN Ukrywacz|$(Programs)]
+Icon1="GN Ukrywacz.exe"
+Title1=GN Ukrywacz
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|GN Ukrywacz|Package]
+PackageFolder=C:\Grzegorz\Moje programy\GN Ukrywacz\gnukryw
+ProjectFolder=C:\Grzegorz\Kody Ÿród³owe\Visual Basic\GN Ukrywacz
+ServerSideCab=
+File1=C:\Grzegorz\Moje programy\GN Ukrywacz\gnukryw\setup.exe
+File2=C:\Grzegorz\Moje programy\GN Ukrywacz\gnukryw\Setup.Lst
+File3=C:\Grzegorz\Moje programy\GN Ukrywacz\gnukryw\GN Ukrywacz.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

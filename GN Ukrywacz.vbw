@@ -1,0 +1,11 @@
+frmForm1 = 66, 66, 382, 412, Z, 22, 22, 608, 372, C
+frmAbout = 88, 88, 513, 408, C, 66, 66, 491, 386, C
+Rejestr = 132, 132, 630, 413, C
+KodujDekodujFileExistsWindirPropertiesPass = 0, 0, 410, 346, C
+frmUstawienia = 154, 154, 720, 602, C, 73, 42, 639, 490, C
+frmFolder = 154, 154, 720, 602, C, 176, 176, 742, 624, C
+frmHaslo = 154, 154, 720, 602, C, 132, 132, 698, 580, C
+BrowseForFolder = 66, 66, 610, 514, C
+frmUlubiony = 132, 132, 676, 580, C, 110, 110, 654, 558, C
+frmAdminPasswd = 44, 44, 614, 492, C, 0, 0, 570, 448, C
+frmAdminLogon = 110, 110, 680, 558, C, 88, 88, 658, 536, C
